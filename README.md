@@ -16,7 +16,7 @@ Umfassende Finanzanalyse der 12 größten deutschen Unternehmen mit Fokus auf:
 
 ## 📦 Datensatz
 
-*Datenquelle:** [Top 12 German Companies - Kaggle](https://www.kaggle.com/datasets/willianoliveiragibin/top-12-german-companies)
+**Datenquelle:** [Top 12 German Companies - Kaggle](https://www.kaggle.com/datasets/willianoliveiragibin/top-12-german-companies)
 
 **384 Beobachtungen** mit 11 Finanzkennzahlen pro Unternehmen
 
