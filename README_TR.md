@@ -1,8 +1,8 @@
+# 📖 **Dil:** [English](README_ENG.md) | [Deutsch](README.md) | **Türkçe**
+
 # 📊 Top 12 Alman Şirketi – Finansal Analiz
 
 Almanya'nın en büyük 12 şirketinin 2017-2024 dönemi finansal performansının Keşifsel Veri Analizi (EDA)
-
-> 📖 \*\*Diller:\*\* \[English](README\_ENG.md) | \[Deutsch](README.md) | \*\*Türkçe\*\*
 
 ## 📋 Proje Hakkında
 
@@ -23,8 +23,8 @@ Almanya'nın en büyük 12 şirketinin kapsamlı finansal analizi:
 **Sektörlere Göre Şirketler:**
 
 * **Otomotiv:** Volkswagen AG, BMW AG, Daimler AG, Porsche AG
-* **Teknoloji \& Yazılım:** Siemens AG, SAP SE
-* **Kimya \& Farmasötik:** BASF SE, Bayer AG, Merck KGaA
+* **Teknoloji & Yazılım:** Siemens AG, SAP SE
+* **Kimya & Farmasötik:** BASF SE, Bayer AG, Merck KGaA
 * **Finans:** Allianz SE, Deutsche Bank AG
 * **Telekomünikasyon:** Deutsche Telekom AG
 
@@ -39,7 +39,7 @@ Almanya'nın en büyük 12 şirketinin kapsamlı finansal analizi:
 ✅ **Allianz SE** gelir ve ROA performansında üst sıralarda  
 ✅ **Daimler AG** ROE'de lider, ancak yüksek kaldıraçla destekleniyor  
 ✅ **Volkswagen AG** en yüksek ROA ve verimli varlık kullanımı gösteriyor  
-✅ **BMW AG** güçlü ROE ile dengeli finansal yapı sergiliyor
+✅ **BMW AG** güçlü ROE ile dengeli finansal yapı sergiliyor  
 
 **Temel Çıkarım:** Daha büyük bilanço büyüklüğü mutlaka daha yüksek verimlilik anlamına gelmemektedir. Kaldıraç, birçok şirketin getiri gelişiminde kritik rol oynamaktadır.
 
@@ -50,13 +50,13 @@ Almanya'nın en büyük 12 şirketinin kapsamlı finansal analizi:
 ✅ **Allianz SE:** 2022 sonrası güçlü performans, ancak yüksek borç volatilitesi  
 ✅ **Siemens AG:** Aşırı borçlanma olmadan ılımlı yükseliş trendi  
 ✅ **Merck KGaA:** 2022 sonrası performans odaklı profil ile güçlü momentum  
-✅ **Deutsche Bank AG:** 2020 dip noktası sonrası güçlü toparlanma
+✅ **Deutsche Bank AG:** 2020 dip noktası sonrası güçlü toparlanma  
 
 **Kritik Gözlemler**
 
 ⚠️ **Daimler AG:** Yüksek volatilite ve keskin yükselen borçluluk oranı (2021-2023)  
 ⚠️ **Bayer AG:** Artan kaldıraçla düşen net kar (2023)  
-⚠️ **SAP SE:** Dalgalanan performansla sınırlı istikrar
+⚠️ **SAP SE:** Dalgalanan performansla sınırlı istikrar  
 
 **Temel Çıkarım:** Performans yönü ve risk dinamikleri, şirket büyüklüğünden bağımsız olarak değişmektedir. Yükselen borçluluk oranları, kârlılık dönemlerinin sürdürülebilirliğini değerlendirmede kritik öneme sahiptir.
 
@@ -68,8 +68,7 @@ Almanya'nın en büyük 12 şirketinin kapsamlı finansal analizi:
 
 **Süha Çağrı Özbakışlar**
 
-[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ozbakislar)
-[!\[GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://www.github.com/ozbakislar)
-[!\[Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/ozbakislar)
-[!\[Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)](https://public.tableau.com/app/profile/ozbakislar)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozbakislar)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/ozbakislar)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ozbakislar)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ozbakislar)

@@ -1,8 +1,8 @@
+# 📖 **Language:** **English** | [Deutsch](README.md) | [Türkçe](README_TR.md)
+
 # 📊 Top 12 German Companies – Financial Analysis
 
 Exploratory Data Analysis (EDA) of financial performance of Germany's 12 largest companies between 2017-2024
-
-> 📖 \\\*\\\*Languages:\\\*\\\* \\\*\\\*English\\\*\\\* | \\\[Deutsch](README.md) | \\\[Türkçe](README\\\_TR.md)
 
 ## 📋 About the Project
 
@@ -23,8 +23,8 @@ Comprehensive financial analysis of Germany's 12 largest companies focusing on:
 **Companies by Industry:**
 
 * **Automotive:** Volkswagen AG, BMW AG, Daimler AG, Porsche AG
-* **Technology \& Software:** Siemens AG, SAP SE
-* **Chemicals \& Pharmaceuticals:** BASF SE, Bayer AG, Merck KGaA
+* **Technology & Software:** Siemens AG, SAP SE
+* **Chemicals & Pharmaceuticals:** BASF SE, Bayer AG, Merck KGaA
 * **Finance:** Allianz SE, Deutsche Bank AG
 * **Telecommunications:** Deutsche Telekom AG
 
@@ -39,7 +39,7 @@ Comprehensive financial analysis of Germany's 12 largest companies focusing on:
 ✅ **Allianz SE** ranks among top performers in revenue and ROA  
 ✅ **Daimler AG** leads in ROE, supported by elevated leverage  
 ✅ **Volkswagen AG** shows highest ROA and efficient asset utilization  
-✅ **BMW AG** exhibits balanced financial structure with strong ROE
+✅ **BMW AG** exhibits balanced financial structure with strong ROE  
 
 **Key Insight:** Larger balance sheet size does not necessarily translate to higher efficiency. Leverage plays a crucial role in return development for many companies.
 
@@ -50,13 +50,13 @@ Comprehensive financial analysis of Germany's 12 largest companies focusing on:
 ✅ **Allianz SE:** Strong performance post-2022, but high debt volatility  
 ✅ **Siemens AG:** Moderate upward trend without excessive leverage  
 ✅ **Merck KGaA:** Strong momentum post-2022 with performance-driven profile  
-✅ **Deutsche Bank AG:** Strong recovery after 2020 trough
+✅ **Deutsche Bank AG:** Strong recovery after 2020 trough  
 
 **Critical Observations**
 
 ⚠️ **Daimler AG:** High volatility and sharply rising debt-to-equity ratio (2021-2023)  
 ⚠️ **Bayer AG:** Declining net income with rising leverage (2023)  
-⚠️ **SAP SE:** Limited stability with fluctuating performance
+⚠️ **SAP SE:** Limited stability with fluctuating performance  
 
 **Key Insight:** Performance direction and risk dynamics vary independently of company size. Rising debt-to-equity ratios are critical for assessing the sustainability of profitability phases.
 
@@ -68,8 +68,7 @@ Comprehensive financial analysis of Germany's 12 largest companies focusing on:
 
 **Süha Çağrı Özbakışlar**
 
-[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozbakislar)
-[!\[GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/ozbakislar)
-[!\[Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ozbakislar)
-[!\[Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ozbakislar)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozbakislar)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/ozbakislar)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ozbakislar)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ozbakislar)
